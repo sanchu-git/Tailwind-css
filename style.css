@@ -1,0 +1,54 @@
+*{
+    font-family: 'poppins', sans-serif;
+}
+
+
+
+
+/* @media  screen and (max-width: 600px) {
+
+    .nav{
+        width: 70%;
+        height: 150px;
+        margin-left: 0px;
+        display: hidden;
+    }
+    .ul{
+        display: flex;
+        justify-content: space-evenly;
+
+    }
+    .logo{
+        width: 50px;
+        margin-left: -30px;
+        margin-top: -70px;
+    }
+    .li{
+        width: 100%;
+        font-size: 10px;
+        margin-top: -40px;
+        padding: 15px;
+    }
+    .med{
+        width: 100px;
+        margin-top: -70px;
+    }
+    .excel{
+        font-size: 70px;
+        margin-top: 20px;
+        color: rgb(128, 0, 0);
+
+    }
+    .medo{
+        font-size: 50px;
+        margin-top: -70px;
+    }
+    .para{
+        font-size: 30px;
+        color: rgb(0, 0, 0);
+    }
+    .medi{
+        width: 100%;
+        font-size: 50px;
+    }
+} */
